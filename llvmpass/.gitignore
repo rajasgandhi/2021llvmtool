@@ -1,1 +1,7 @@
 build/
+input.c
+input.ll
+output.ll
+output.json
+outputtransformed.json
+completegen.py

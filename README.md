@@ -2,5 +2,4 @@
 Tool to visualize llvm 
 To generate and run the code all at once here's how you do it:
 
-    $ cd llvmpass
     $ python3 completegen.py [input c file]
